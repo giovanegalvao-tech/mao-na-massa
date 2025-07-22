@@ -8,7 +8,7 @@ Bem-vindo ao repositório centralizado com os códigos e materiais das aulas de 
 
 ## 📚 Estrutura do Repositório
 
-Organizamos o conteúdo por grandes áreas de desenvolvimento para facilitar a navegação. Dentro de cada pasta principal, você encontrará subpastas dedicadas a cada aula, contendo os códigos-fonte, exemplos e, quando aplicável, links para materiais adicionais.
+Organizei o conteúdo por grandes áreas de desenvolvimento para facilitar a navegação. Dentro de cada pasta principal, você encontrará subpastas dedicadas a cada aula, contendo os códigos-fonte, exemplos e, quando aplicável, links para materiais adicionais.
 
   - **`frontend/`**: Contém os códigos das aulas focadas no desenvolvimento Front-End.
   - **`backend/`**: Contém os códigos das aulas focadas no desenvolvimento Back-End.
@@ -39,8 +39,8 @@ Este repositório é um recurso de aprendizado. Sugestões, correções ou melho
 
 ## 📚 Recursos Adicionais
 
-Recomendamos complementar o estudo com a documentação oficial das tecnologias e outros recursos online. O aprendizado contínuo é a chave para se tornar um desenvolvedor de sucesso\!
+Recomenda-se complementar o estudo com a documentação oficial das tecnologias e outros recursos online. O aprendizado contínuo é a chave para se tornar um desenvolvedor de sucesso\!
 
 -----
 
-Esperamos que este repositório seja uma ferramenta valiosa em sua jornada de desenvolvimento. Bons estudos\!
+Espera-se que este repositório seja uma ferramenta valiosa em sua jornada de desenvolvimento. Bons estudos\!
