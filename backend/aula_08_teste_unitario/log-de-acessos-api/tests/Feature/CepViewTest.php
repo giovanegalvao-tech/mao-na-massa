@@ -27,3 +27,4 @@ class CepViewTest extends TestCase
         $response->assertSee('Rua Teste');
     }
 }
+
